@@ -1,9 +1,12 @@
 Heloo da makkans this is my git file for here am going to paste hear for a fun purpose.
 
 evanda friend uuh!
+<<<<<<< HEAD
 
 
 This is actually different changes i thing 3rd commit.
 
 Hav fun!
 
+=======
+>>>>>>> parent of f7c5f4c ("Second commit")
